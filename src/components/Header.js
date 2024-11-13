@@ -30,7 +30,7 @@ const Header = () => {
                         <div className='col-2'>
                             <h2>
                                 <Link className='text-white'>
-                                    Eco_PHUCS
+                                    TECHMART
                                 </Link>
                             </h2>
                         </div>
